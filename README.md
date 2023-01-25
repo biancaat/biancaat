@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biancaat&label=Profile%20views&color=0e75b6&style=flat" alt="biancaat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/biancaat" target="blank"><img src="https://img.shields.io/twitter/follow/@biancaat?logo=twitter&style=for-the-badge" alt="@biancaat" /></a> </p>
-
-- 📫 How to reach me **taladainqueries@gmail.com**
-
 - 📄 Know about my experiences [https://docs.google.com/viewer?url=https://docs.google.com/document/d/14tWoJjgUW34BVyAC6tSTB1-NgHtzV7U4/export?format=pdf](https://docs.google.com/viewer?url=https://docs.google.com/document/d/14tWoJjgUW34BVyAC6tSTB1-NgHtzV7U4/export?format=pdf)
 
-- ⚡ Fun fact **I've starred in and made two short films!**
+- ⚡ Fun fact **I've starred in and made two award winning short films!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
